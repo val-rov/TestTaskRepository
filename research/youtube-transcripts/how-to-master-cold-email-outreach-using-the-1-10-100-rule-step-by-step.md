@@ -1,5 +1,7 @@
 # How to Master Cold Email Outreach Using the 1-10-100 Rule (Step-by-Step)
 
+**Creator:** Leslie Venetz
+
 **URL:** https://www.youtube.com/watch?v=iVOM_FozO1o
 
 ## Transcript

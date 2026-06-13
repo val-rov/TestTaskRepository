@@ -1,5 +1,7 @@
 # My 3C Framework to Stop Prospects From Ghosting You
 
+**Creator:** Leslie Venetz
+
 **URL:** https://www.youtube.com/watch?v=Wjwams_RY8w
 
 ## Transcript

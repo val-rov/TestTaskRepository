@@ -1,5 +1,7 @@
 # I Built a List of 96,853 Franchise Owners for $0 (Here&#39;s How)
 
+**Creator:** Jordan Crawford
+
 **URL:** https://www.youtube.com/watch?v=SENPGiXzT-o
 
 ## Transcript

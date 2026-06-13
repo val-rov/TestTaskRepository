@@ -1,5 +1,7 @@
 # LinkedIn Sales Navigator: The Ultimate Guide to B2B Lead Generation in 2026
 
+**Creator:** Morgan J Ingram
+
 **URL:** https://www.youtube.com/watch?v=vno7VsbAbFk
 
 ## Transcript

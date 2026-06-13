@@ -1,5 +1,7 @@
 # I sent 10,000,000 cold emails, here&#39;s what works in 2025
 
+**Creator:** Eric Nowoslawski
+
 **URL:** https://www.youtube.com/watch?v=cfpLJqkmB6I
 
 ## Transcript

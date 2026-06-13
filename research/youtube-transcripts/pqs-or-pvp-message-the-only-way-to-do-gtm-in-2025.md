@@ -1,5 +1,7 @@
 # PQS or PVP Message: The Only Way to Do GTM in 2025
 
+**Creator:** Jordan Crawford
+
 **URL:** https://www.youtube.com/watch?v=Shf713FnkS8
 
 ## Transcript

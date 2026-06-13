@@ -1,5 +1,7 @@
 # SDRs are Dead: A Fully Written by AI Outbound Email: It Costs Just 2.5 Cents (Hint: Not GPT4!)
 
+**Creator:** Jordan Crawford
+
 **URL:** https://www.youtube.com/watch?v=zMI0dT2fyD8
 
 ## Transcript

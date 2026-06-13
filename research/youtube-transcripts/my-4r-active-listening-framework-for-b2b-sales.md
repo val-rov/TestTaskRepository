@@ -1,5 +1,7 @@
 # My 4R Active Listening Framework for B2B Sales
 
+**Creator:** Leslie Venetz
+
 **URL:** https://www.youtube.com/watch?v=6a_Cdjdl4zA
 
 ## Transcript

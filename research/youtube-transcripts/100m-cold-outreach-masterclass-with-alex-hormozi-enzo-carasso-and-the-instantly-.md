@@ -1,5 +1,7 @@
 # $100M Cold Outreach Masterclass with Alex Hormozi, Enzo Carasso, and the Instantly Founders
 
+**Creator:** Eric Nowoslawski
+
 **URL:** https://www.youtube.com/watch?v=cU7nYFnQNSA
 
 ## Transcript

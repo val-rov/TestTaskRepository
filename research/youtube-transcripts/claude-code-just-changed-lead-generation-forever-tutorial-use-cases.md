@@ -1,5 +1,7 @@
 # Claude Code Just Changed Lead Generation Forever (Tutorial + Use Cases)
 
+**Creator:** Eric Nowoslawski
+
 **URL:** https://www.youtube.com/watch?v=RLHzU2_Xl5g
 
 ## Transcript

@@ -1,5 +1,7 @@
 # How To Use LinkedIn Sales Navigator To Generate Leads - Step-by-Step 2025 Guide
 
+**Creator:** Morgan J Ingram
+
 **URL:** https://www.youtube.com/watch?v=bNBTtQy2-Bs
 
 ## Transcript

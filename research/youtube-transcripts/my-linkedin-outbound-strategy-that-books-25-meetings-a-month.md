@@ -1,5 +1,7 @@
 # My LinkedIn Outbound Strategy That Books 25+ Meetings a Month
 
+**Creator:** Morgan J Ingram
+
 **URL:** https://www.youtube.com/watch?v=nUe5IpnleRc
 
 ## Transcript
