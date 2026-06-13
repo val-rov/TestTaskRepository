@@ -81,3 +81,45 @@ During this process I became more familiar with:
 - GitHub repository management
 - Troubleshooting software compatibility issues
 - Navigating evolving developer tooling ecosystems
+
+---
+
+## Outbound Sales Research
+
+### What Was Collected
+
+This repository includes a primary research base on outbound sales and GTM, organized under `research/`:
+
+- **10 practitioners** tracked across LinkedIn and YouTube
+- **51 LinkedIn posts** collected manually across all 10 experts (`research/linkedin-posts/`)
+- **12 YouTube video transcripts** fetched automatically via script (`research/youtube-transcripts/`)
+
+### Collection Method
+
+**YouTube transcripts** were fetched using the `youtube-transcript-api` Python library (no API key required). A script reads a list of video URLs from `research/youtube-transcripts/video-list.txt`, pulls the transcript for each video, and saves it as a markdown file with the video title and URL at the top. Paragraphs are broken at roughly 60-second intervals for readability.
+
+**LinkedIn posts** were collected manually — each post was saved with its publication date, URL, and full text under a heading, following a consistent format across all files.
+
+### Why These Ten Experts
+
+The ten experts were selected to cover the full outbound pipeline end-to-end, not any single discipline. Each was also chosen because they run real outbound — agencies, daily senders, and coaches with live programs.
+
+| Discipline | Experts |
+|---|---|
+| **Data, targeting & automation** | Eric Nowoslawski, Jordan Crawford |
+| **Cold email copywriting** | Will Allred, Florin Tatulea, Kristina Finseth |
+| **Cold calling & objection handling** | Jason Bay, Leslie Venetz, Josh Braun |
+| **Multichannel systems & sequencing** | Jed Mahrle, Morgan J Ingram |
+
+- **Eric Nowoslawski** (Growth Engine X) — Clay power user, sends millions of cold emails per month; teaches the actual tech stack.
+- **Jordan Crawford** (Blueprint GTM) — Signal- and AI-native outbound; known for the "permissionless value prop" approach.
+- **Will Allred** (Lavender AI) — Co-founder of an AI email coaching tool; developed the "Above the Line" framework.
+- **Florin Tatulea** — Sales leader and LinkedIn Top Voice; cold email frameworks and multichannel copy.
+- **Kristina Finseth** — Outbound practitioner focused on tactical personalization at scale.
+- **Jason Bay** (Outbound Squad) — Founder; REPLY Method for cold calling and multichannel outreach.
+- **Leslie Venetz** (The Sales-Led GTM Agency) — 250,000+ cold calls; enterprise prospecting.
+- **Josh Braun** — Independent coach; tonality, lowering resistance, and the "poke the bear" philosophy.
+- **Jed Mahrle** (Practical Prospecting) — Built outbound systems for 50+ B2B tech companies.
+- **Morgan J Ingram** — Multichannel and video prospecting; sequencing across channels.
+
+Full annotated source list: [`research/sources.md`](research/sources.md)
