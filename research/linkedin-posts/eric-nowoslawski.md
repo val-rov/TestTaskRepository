@@ -5,7 +5,7 @@
 ## The ICP Prompt Loop
 
 **Date:** Thu, 28 May 2026
-**URL:** *(not available in source)*
+**URL:** https://www.linkedin.com/posts/outboundphd_i-dont-write-prompts-for-list-qualification-activity-7465756271334371328-I875?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWF4egBCw1RxVdlCsF4TTgWYOsP4Y-eeyE
 
 I don't write prompts for list qualification anymore. Instead, I use a skill I call it the ICP prompt loop.
 
@@ -32,7 +32,7 @@ This way, you stop guessing whether your prompt is good and start proving it on 
 ## Crawling Thousands of Sites for Free
 
 **Date:** Wed, 27 May 2026
-**URL:** *(not available in source)*
+**URL:** https://www.linkedin.com/posts/outboundphd_we-crawled-thousands-of-websites-for-this-activity-7465390129390538752-AxE5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWF4egBCw1RxVdlCsF4TTgWYOsP4Y-eeyE
 
 We crawled thousands of websites for this list and paid nothing to actually read the pages and score them for ICP fit.
 
@@ -57,7 +57,7 @@ Link here to the repo I used: https://lnkd.in/ex2un2Kb
 ## The List Is the Message
 
 **Date:** Tue, 26 May 2026
-**URL:** *(not available in source)*
+**URL:** https://www.linkedin.com/posts/outboundphd_the-list-is-the-message-i-dont-know-who-activity-7465024294767521792-VDUX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWF4egBCw1RxVdlCsF4TTgWYOsP4Y-eeyE
 
 The list is the message. I don't know who first said it, but it's one of the truest things in outbound.
 
@@ -84,7 +84,7 @@ If it wouldn't, don't split. "Who do they sell to" almost always changes what yo
 ## Prospeo v2 Update
 
 **Date:** Wed, 20 May 2026
-**URL:** *(not available in source)*
+**URL:** https://www.linkedin.com/posts/outboundphd_you-can-now-target-companies-by-who-they-activity-7462849710442217472-rpcG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWF4egBCw1RxVdlCsF4TTgWYOsP4Y-eeyE
 
 You can now target companies by who they sell to, keyword searches across the whole website, how companies show up for Google searches and more.
 
@@ -117,7 +117,7 @@ I go over all of the updates in the video update here.
 ## There Is No Such Thing as a "B2B SaaS" Filter
 
 **Date:** Tue, 19 May 2026
-**URL:** *(not available in source)*
+**URL:** https://www.linkedin.com/posts/outboundphd_there-is-no-such-thing-as-a-b2b-saas-filter-activity-7462581598727708673-r1xf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWF4egBCw1RxVdlCsF4TTgWYOsP4Y-eeyE
 
 There is no such thing as a "B2B SaaS" filter. There's no clean "e-commerce brand" one either. And if you pull "financial services," you will miss every bank.
 
